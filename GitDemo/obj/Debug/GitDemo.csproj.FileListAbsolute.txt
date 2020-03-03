@@ -1,2 +1,6 @@
 c:\users\dell 123\documents\visual studio 2012\Projects\GitDemo\GitDemo\bin\Debug\GitDemo.exe.config
+<<<<<<< HEAD
 D:\gitDemo1\GitDemo\GitDemo\bin\Debug\GitDemo.exe.config
+=======
+D:\gitdemo2\GitDemo\GitDemo\bin\Debug\GitDemo.exe.config
+>>>>>>> 98caaa26bdbead0eb8d21b5141818149427dc8c6
