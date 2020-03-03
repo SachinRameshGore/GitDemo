@@ -1,1 +1,2 @@
 c:\users\dell 123\documents\visual studio 2012\Projects\GitDemo\GitDemo\bin\Debug\GitDemo.exe.config
+D:\gitDemo1\GitDemo\GitDemo\bin\Debug\GitDemo.exe.config
